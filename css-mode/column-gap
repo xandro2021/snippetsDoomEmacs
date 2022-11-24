@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: column-gap
+# key: cg
+# --
+column-gap: ${1:2}rem;

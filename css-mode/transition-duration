@@ -1,0 +1,4 @@
+# key: trd
+# name: transition-duration
+# --
+transition-duration: ${1:300}ms;

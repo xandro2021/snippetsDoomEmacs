@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: @color
+# key: co
+# --
+color: var( --${1:black} );

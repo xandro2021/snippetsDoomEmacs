@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: background-color
+# key: bgcv
+# --
+background-color: var( --${1:black} );

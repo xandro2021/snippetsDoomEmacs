@@ -1,0 +1,4 @@
+# key: bxs
+# name: box-shadow
+# --
+box-shadow: ${1:0}px ${2:0}px ${3:15}px ${4:3}px rgba( 0, 0, 0, 0.15 );

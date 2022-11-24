@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: object-fit
+# key: of
+# --
+object-fit: cover;
+height: 100%;

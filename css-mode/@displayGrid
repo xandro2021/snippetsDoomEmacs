@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: @displayGrid
+# key: d:g
+# --
+display: grid;
+    `%`$0

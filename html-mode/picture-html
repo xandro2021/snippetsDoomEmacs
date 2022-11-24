@@ -1,0 +1,8 @@
+# key: im
+# name: picture-html
+# --
+<picture>
+    <source srcset="${1}.avif" type="image/avif" />
+    <source srcset="${2}.webp" type="image/webp" />
+    <img loading="lazy" src="${3}" alt="${4}">
+</picture>

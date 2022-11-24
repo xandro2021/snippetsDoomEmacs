@@ -1,0 +1,4 @@
+# key: trp
+# name: transition-property
+# --
+transition-property: ${1:transform};

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: @media
+# key: mq
+# --
+@media ( ${1:min}-width: ${2} ){
+    `%`$0
+}
